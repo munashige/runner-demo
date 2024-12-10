@@ -5,4 +5,4 @@ The game is made in JS with Kaplay game library.
 
 CREDITS:
 Fonts: https://www.dafont.com/mania.font  
-Tutorial: https://youtube.com/@jslegenddev  
+Tutorial: @jslegenddev  
